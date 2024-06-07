@@ -1,1 +1,5 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
+
+# Setup
+title: [CIT 281 Project and Lab Repos]
+description: [List of projects and labs with links to repos]
